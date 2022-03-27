@@ -1,8 +1,9 @@
 import UseRefHook from "./components/useRefHook";
+import UseRH from "./components/useReducerHook/useRH";
 const App = () => {
   return (
     <>
-      <UseRefHook />
+      <UseRH />
     </>
   );
 };
